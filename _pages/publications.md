@@ -18,8 +18,10 @@ nav_order: 2
   {% bibliography bib="papers.bib" %}
 </div>
 
+<br><br>
+<br><br>
 <h2>Working Papers</h2>
-<div class="publications">
+<div class="working_papers">
   {% bibliography bib="working_papers.bib" %}
 </div>
 
