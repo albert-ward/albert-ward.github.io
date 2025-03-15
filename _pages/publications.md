@@ -15,27 +15,13 @@ nav_order: 2
 
 <h2>Publications</h2>
 <div class="publications">
-  {% bibliography bib="papers" template="bib_entry"%}
+  {% bibliography query="@article" %}
 </div>
 
 <br><br>
 
 <h2>Working Papers</h2>
-<div class="publications">
-  {% bibliography bib="working_papers" template="bib_entry"%}
+<div class="working_papers">
+  {% bibliography query="@unpublished" %}
 </div>
 
-{% bibliography papers %}
-
-{% bibliography working_papers %}
-
-<h2>Debug Output</h2>
-<p>Bibliography List: {{ site.scholar.bibliography_list }}</p>
-
-<h2>Single Entry Test</h2>
-
-<h3>Papers</h3>
-{% bibliography bib="papers" query="@article" %}
-
-<h3>Working Papers</h3>
-{% bibliography bib="working_papers" query="@unpublished" %}
