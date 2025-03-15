@@ -1,0 +1,10 @@
+<li>
+  {{ entry.author }} ({{ entry.year }}). 
+  <strong>{{ entry.title }}</strong>. 
+  <em>{{ entry.journal }}</em>{% if entry.volume %}, {{ entry.volume }}{% endif %}{% if entry.number %}({{ entry.number }}){% endif %}, 
+  {% if entry.pages %}pp. {{ entry.pages }}.{% endif %}
+  
+  {% if entry.pdf %}
+    <a href="{{ entry.pdf }}" target="_blank">[PDF]</a>
+  {% endif %}
+</li>
