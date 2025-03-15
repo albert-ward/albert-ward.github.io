@@ -13,14 +13,16 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
-<h2>Publications</h2>
+<br><br>
+
+<h2>publications</h2>
 <div class="publications">
   {% bibliography query="@article" %}
 </div>
 
 <br><br>
 
-<h2>Working Papers</h2>
+<h2>working papers</h2>
 <div class="working_papers">
   {% bibliography query="@unpublished" %}
 </div>
