@@ -221,8 +221,8 @@ scholar:
   source: _bibliography
   bibliography: papers.bib
   bibliography_list:
-    papers: _bibliography/papers.bib
-    working_papers: _bibliography/working_papers.bib
+    papers: papers.bib
+    working_papers: working_papers.bib
   bibliography_template: bib
   bibtex_filters: [latex, smallcaps, superscript]
 
