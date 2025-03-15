@@ -7,12 +7,12 @@ nav: true
 nav_order: 6
 ---
 
-Lectures:
+__Lectures:__
 
 Political Sociology (UG)	
 
-
-Tutorials and classes:
+<br><br>
+__Tutorials and classes:__
 
 Comparative Government (UG)	
 

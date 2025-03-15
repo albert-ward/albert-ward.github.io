@@ -4,8 +4,8 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: albert_ward_cv_mar2025.pdf you can also use external links here
-description: 
+cv_pdf: 
+description: You can download a 
 toc:
   sidebar: left
 ---
