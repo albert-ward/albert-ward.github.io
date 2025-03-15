@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "You can download a",
+          description: "You can download a copy of my CV here.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -52,32 +52,11 @@ ninja.data = [{
           window.open("mailto:%61%6C%62%65%72%74.%77%61%72%64@%70%6F%6C%69%74%69%63%73.%6F%78.%61%63.%75%6B", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://inspirehep.net/authors/false", "_blank");
-        },
-      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/albert-w-385363316", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
-        },
-      },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://scholar.google.com/citations?user=false", "_blank");
         },
       },{
       id: 'light-theme',
