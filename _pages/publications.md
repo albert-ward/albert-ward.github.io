@@ -5,6 +5,11 @@ title: research
 description: publications and working papers in reverse chronological order.
 nav: true
 nav_order: 2
+scholar:
+  bibliography: _bibliography/papers.bib
+  bibliography_list:
+    papers: _bibliography/papers.bib
+    working_papers: _bibliography/working_papers.bib
 ---
 
 <!-- _pages/publications.md -->
