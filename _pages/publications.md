@@ -21,7 +21,7 @@ nav_order: 2
 <br><br>
 
 <h2>Working Papers</h2>
-<div class="working_papers">
+<div class="publications">
   {% bibliography bib="working_papers" template="bib_entry"%}
 </div>
 

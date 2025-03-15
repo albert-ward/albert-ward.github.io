@@ -135,7 +135,6 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
-  - _pages/about_einstein.md
   - purgecss.config.js
   - README.md
   - readme_preview/
@@ -210,31 +209,6 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
-
-scholar:
-  last_name: [Ward]
-  first_name: [Albert, J.]
-
-  style: apa
-  locale: en
-
-  source: _bibliography
-  bibliography: papers.bib
-  bibliography_list:
-    papers: papers.bib
-    working_papers: working_papers.bib
-  bibliography_template: bib
-  bibtex_filters: [latex, smallcaps, superscript]
-
-  replace_strings: true
-  join_strings: true
-
-  details_dir: bibliography
-  details_link: Details
-
-  query: "@*"
-  group_by: year
-  group_order: descending
 
 # Display different badges withs stats for your publications
 # Customize badge behavior in _layouts/bib.liquid
