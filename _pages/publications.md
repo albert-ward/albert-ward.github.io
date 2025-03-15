@@ -27,3 +27,11 @@ nav_order: 2
   {% bibliography query="@unpublished" %}
 </div>
 
+<h2>Debug: Show Raw Bibliography Entries</h2>
+<pre>{{ site.scholar.bibliography | jsonify }}</pre>
+
+<h2>Single Entry Test: test</h2>
+{% bibliography query="@unpublished" limit=1 %}
+
+<h2>Manually Calling One Entry</h2>
+{% bibliography query="test" %}   <!-- Replace with an actual BibTeX key -->
