@@ -15,23 +15,23 @@ nav_order: 2
 
 <br><br>
 
-<h2>publications</h2>
-<div class="publications">
-  {% bibliography query="@article" %}
-</div>
+{% assign all_entries = site.scholar.bibliography %}
 
-<br><br>
+<h2>Publications</h2>
+<ul>
+  {% for entry in all_entries %}
+    {% if entry.entry_type == "article" or entry.entry_type == "inproceedings" %}
+      <li><strong>{{ entry.title }}</strong> ({{ entry.year }}) - {{ entry.journal }}</li>
+    {% endif %}
+  {% endfor %}
+</ul>
 
-<h2>working papers</h2>
-<div class="working_papers">
-  {% bibliography query="@unpublished" %}
-</div>
+<h2>Working Papers</h2>
+<ul>
+  {% for entry in all_entries %}
+    {% if entry.entry_type == "unpublished" %}
+      <li><strong>{{ entry.title }}</strong> ({{ entry.year }})</li>
+    {% endif %}
+  {% endfor %}
+</ul>
 
-<h2>Debug: Show Raw Bibliography Entries</h2>
-<pre>{{ site.scholar.bibliography | jsonify }}</pre>
-
-<h2>Single Entry Test: test</h2>
-{% bibliography query="@unpublished" limit=1 %}
-
-<h2>Manually Calling One Entry</h2>
-{% bibliography query="test" %}   <!-- Replace with an actual BibTeX key -->
