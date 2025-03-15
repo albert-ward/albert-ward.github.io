@@ -15,12 +15,12 @@ nav_order: 2
 
 <h2>Publications</h2>
 <div class="publications">
-  {% bibliography bib="papers" template="bib_entry" query="@*" %}
+  {% bibliography bib="papers" template="bib_entry"%}
 </div>
 
 <br><br>
 
 <h2>Working Papers</h2>
 <div class="working_papers">
-  {% bibliography bib="working_papers" template="bib_entry" query="@*" %}
+  {% bibliography bib="working_papers" template="bib_entry"%}
 </div>
