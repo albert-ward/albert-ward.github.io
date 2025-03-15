@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - albert-ward
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - albert-ward/conjoint-code-25
+  - albert-ward/replication_eu_spending
+  - albert-ward/uk_vote_small_counts
+  - albert-ward/ukhls_class
+  - albert-ward/nevs_ge
