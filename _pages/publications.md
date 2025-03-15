@@ -24,3 +24,7 @@ nav_order: 2
 <div class="working_papers">
   {% bibliography bib="working_papers" template="bib_entry"%}
 </div>
+
+{% bibliography papers %}
+
+{% bibliography working_papers %}
