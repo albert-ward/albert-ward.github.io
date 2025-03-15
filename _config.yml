@@ -210,6 +210,13 @@ display_categories: ["external-services"] # these categories will be displayed o
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
 
+scholar:
+  source: _bibliography
+  bibliography: papers.bib
+  bibliography_list:
+    papers: papers.bib
+    working_papers: working_papers.bib
+
 # Display different badges withs stats for your publications
 # Customize badge behavior in _layouts/bib.liquid
 enable_publication_badges:

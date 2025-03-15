@@ -28,3 +28,14 @@ nav_order: 2
 {% bibliography papers %}
 
 {% bibliography working_papers %}
+
+<h2>Debug Output</h2>
+<p>Bibliography List: {{ site.scholar.bibliography_list }}</p>
+
+<h2>Single Entry Test</h2>
+
+<h3>Papers</h3>
+{% bibliography bib="papers" query="@article" %}
+
+<h3>Working Papers</h3>
+{% bibliography bib="working_papers" query="@unpublished" %}
