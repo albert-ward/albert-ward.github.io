@@ -15,7 +15,7 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 
 
 url: https://albert-ward.github.io # the base hostname & protocol for your site
 baseurl: 
@@ -96,13 +96,13 @@ newsletter:
 
 collections:
   books:
-    output: true
+    output: false
   news:
     defaults:
       layout: post
-    output: true
+    output: false
   projects:
-    output: true
+    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -142,8 +142,6 @@ exclude:
   - purgecss.config.js
   - README.md
   - readme_preview/
-  - _projects
-  - _dropdown
   - vendor
 keep_files:
   - CNAME

@@ -7,11 +7,17 @@ nav: true
 nav_order: 6
 ---
 
-Lectures	2024 – Present
+Lectures:
+
 Political Sociology (UG)	
 
-Tutorials and classes	2021 – Present
+
+Tutorials and classes:
+
 Comparative Government (UG)	
+
 Practice of Politics Prelims (UG)	
+
 Political Sociology (UG)	
+
 Political Analysis (Q-Step) labs (UG)
