@@ -143,6 +143,7 @@ exclude:
   - README.md
   - readme_preview/
   - _projects
+  - _dropdown
   - vendor
 keep_files:
   - CNAME
