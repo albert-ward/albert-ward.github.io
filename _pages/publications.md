@@ -15,7 +15,7 @@ nav_order: 2
 
 <br><br>
 
-## Publications
+## publications
 <br><br>
 **Why regional spending does not affect support for the European Union**  
 *Journal of European Public Policy, 2025*  
@@ -33,7 +33,7 @@ nav_order: 2
 <br><br>
 <br><br>
 
-## Working Papers
+## working papers
 <br><br>
 **No place like home: The causes of attachment to neighbourhood**  
 *Working paper*  
@@ -42,12 +42,11 @@ nav_order: 2
 ---
 
 **Chapter 4: Place Identity and Political Participation**  
-*Working paper*  
+*Thesis chapter*  
 [PDF](/assets/papers/chapter_four_wip.pdf)
 
 ---
 
-**PhD Thesis Summary**  
-*Working paper*  
+**PhD thesis summary**  
 [PDF](/assets/papers/main_thesis_summary_wip.pdf)
 
