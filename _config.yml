@@ -212,6 +212,25 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
+  style: apa
+  locale: en
+
+  source: _bibliography
+  bibliography: papers.bib
+  bibliography_template: bib
+  bibtex_filters: [latex, smallcaps, superscript]
+
+  replace_strings: true
+  join_strings: true
+
+  details_dir: bibliography
+  details_link: Details
+
+  query: "@*"
+  group_by: year
+  group_order: descending
+
+scholar:
   last_name: [Ward]
   first_name: [Albert, J.]
 
@@ -221,8 +240,8 @@ scholar:
   source: _bibliography
   bibliography: papers.bib
   bibliography_list:
-    papers: _bibliography/papers.bib
-    working_papers: _bibliography/working_papers.bib
+    papers: papers.bib
+    working_papers: working_papers.bib
   bibliography_template: bib
   bibtex_filters: [latex, smallcaps, superscript]
 

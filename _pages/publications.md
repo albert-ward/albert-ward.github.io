@@ -23,5 +23,5 @@ nav_order: 2
 
 <h2>Working Papers</h2>
 <div class="working_papers">
-  {% bibliography bib="working_papers.bib" template="bib_entry" %}
+  {% bibliography --file working_papers %}
 </div>
