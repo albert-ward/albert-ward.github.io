@@ -15,23 +15,40 @@ nav_order: 2
 
 <br><br>
 
-{% assign all_entries = site.scholar.bibliography %}
+## Publications
 
-<h2>Publications</h2>
-<ul>
-  {% for entry in all_entries %}
-    {% if entry.entry_type == "article" or entry.entry_type == "inproceedings" %}
-      <li><strong>{{ entry.title }}</strong> ({{ entry.year }}) - {{ entry.journal }}</li>
-    {% endif %}
-  {% endfor %}
-</ul>
+**Why regional spending does not affect support for the European Union**  
+*Journal of European Public Policy, 2025*  
+(Ward, A., Hobolt, S. B., & Tilley, J.)  
+[PDF](assets/papers/why_regional_spending.pdf)
 
-<h2>Working Papers</h2>
-<ul>
-  {% for entry in all_entries %}
-    {% if entry.entry_type == "unpublished" %}
-      <li><strong>{{ entry.title }}</strong> ({{ entry.year }})</li>
-    {% endif %}
-  {% endfor %}
-</ul>
+---
+
+**Peoples’ Climate Vote 2024**  
+*United Nations, 2024*  
+(Fisher, S., Blayney, M., Ward, A., Flynn, C., Tovar Jard, S., Smith, H., Struthoff, P., Fillingham, Z.)  
+[PDF](assets/papers/undp-oxford-peoples-climate-vote-2024.pdf)
+
+---
+
+## Working Papers
+
+**No place like home: The causes of attachment to neighbourhood**  
+*Unpublished Manuscript, 2024*  
+(Ward, A.)  
+[PDF](assets/papers/no_place_like_home_chpt3.pdf)
+
+---
+
+**Chapter 4: Place Identity and Political Participation**  
+*Unpublished Manuscript, 2024*  
+(Ward, A.)  
+[PDF](assets/papers/chapter_4.pdf)
+
+---
+
+**PhD Thesis Summary**  
+*Unpublished Manuscript, 2025*  
+(Ward, A.)  
+[PDF](assets/papers/main_thesis_summary.pdf)
 
