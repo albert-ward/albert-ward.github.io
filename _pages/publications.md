@@ -20,6 +20,7 @@ nav_order: 2
 **Why regional spending does not affect support for the European Union**  
 *Journal of European Public Policy, 2025*  
 (Ward, A., Hobolt, S. B., and Tilley, J.) 
+[PDF](/assets/papers/eu_spending_jepp_2025.pdf)
 
 ---
 
