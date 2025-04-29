@@ -31,6 +31,13 @@ nav_order: 2
 
 ---
 
+**Reproduction and Robustness of Kao et al. (2024): "Female Representation and Legitimacy". A Report from the 2024 UC Berkeley Replication Games**  
+*I4R Discussion Paper Series, 2024*  
+(Brailey, T.; Kelly, E.; Odermatt, A.; Ward, A.)  
+[PDF](/assets/papers/I4R-DP146.pdf)
+
+---
+
 <br><br>
 <br><br>
 
