@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 
 I'm a PhD candidate at the University of Oxford, specialising in public opinion and political behaviour. I also study climate policy, psychology, European politics and applied social science more broadly.
 
-I'm interested in survey science, experimental methods, and quantitative methods more generally. You can find some examples of my work in `_pages/repositories.md`
+I'm interested in survey science, experimental methods, and quantitative methods generally. You can find some examples of my work in `_pages/repositories.md`
 
 In the past, I've lectured at Jesus College and Hertford College in Oxford. I've also been a visiting fellow at Harvard University and have worked for the BBC as a political analyst, as well as on a number of different research projects.
 
