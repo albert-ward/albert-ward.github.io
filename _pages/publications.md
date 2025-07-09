@@ -43,12 +43,6 @@ nav_order: 2
 
 ## working papers
 <br><br>
-**No place like home: The causes of attachment to neighbourhood**  
-*Working paper*  
-[PDF](/assets/papers/no_place_like_home_wip.pdf)
-
----
-
 **Chapter 4: Place Identity and Political Participation**  
 *Thesis chapter*  
 [PDF](/assets/papers/chapter_four_wip.pdf)
