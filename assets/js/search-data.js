@@ -59,6 +59,13 @@ ninja.data = [{
           window.open("https://orcid.org/0000-0002-3221-5415", "_blank");
         },
       },{
+        id: 'social-osf',
+        title: 'Open Science Framework',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://osf.io/xqdpr/", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
