@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Albert
+first_name: Albert Ward
 middle_name: 
-last_name: Ward
+last_name: 
 contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
@@ -208,98 +208,102 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
-# -----------------------------------------------------------------------------
+# # -----------------------------------------------------------------------------
 
 scholar:
-  source: _bibliography
-  bibliography: papers.bib
-  bibliography_list:
-    papers: papers.bib
-    working_papers: working_papers.bib
+  ...
+  bibliography_list: {}
+  
+# scholar:
+#   source: _bibliography
+#   bibliography: papers.bib
+#   bibliography_list:
+#     papers: papers.bib
+#     working_papers: working_papers.bib
 
-# Display different badges withs stats for your publications
-# Customize badge behavior in _layouts/bib.liquid
-enable_publication_badges:
-  altmetric: true # Altmetric badge (Customization options: https://badge-docs.altmetric.com/index.html)
-  dimensions: true # Dimensions badge (Customization options: https://badge.dimensions.ai/)
-  google_scholar: true # Google Scholar badge (https://scholar.google.com/intl/en/scholar/citations.html)
-  inspirehep: true # Inspire HEP badge (https://help.inspirehep.net/knowledge-base/citation-metrics/)
+# # Display different badges withs stats for your publications
+# # Customize badge behavior in _layouts/bib.liquid
+# enable_publication_badges:
+#   altmetric: true # Altmetric badge (Customization options: https://badge-docs.altmetric.com/index.html)
+#   dimensions: true # Dimensions badge (Customization options: https://badge.dimensions.ai/)
+#   google_scholar: true # Google Scholar badge (https://scholar.google.com/intl/en/scholar/citations.html)
+#   inspirehep: true # Inspire HEP badge (https://help.inspirehep.net/knowledge-base/citation-metrics/)
 
-# Filter out certain bibtex entry keywords used internally from the bib output
-filtered_bibtex_keywords:
-  [
-    abbr,
-    abstract,
-    additional_info,
-    altmetric,
-    annotation,
-    arxiv,
-    award,
-    award_name,
-    bibtex_show,
-    blog,
-    code,
-    google_scholar_id,
-    html,
-    inspirehep_id,
-    pdf,
-    poster,
-    preview,
-    selected,
-    slides,
-    supp,
-    video,
-    website,
-  ]
+# # Filter out certain bibtex entry keywords used internally from the bib output
+# filtered_bibtex_keywords:
+#   [
+#     abbr,
+#     abstract,
+#     additional_info,
+#     altmetric,
+#     annotation,
+#     arxiv,
+#     award,
+#     award_name,
+#     bibtex_show,
+#     blog,
+#     code,
+#     google_scholar_id,
+#     html,
+#     inspirehep_id,
+#     pdf,
+#     poster,
+#     preview,
+#     selected,
+#     slides,
+#     supp,
+#     video,
+#     website,
+#   ]
 
-# Maximum number of authors to be shown for each publication (more authors are visible on click)
-max_author_limit: 3 # leave blank to always show all authors
-more_authors_animation_delay: 10 # more authors are revealed on click using animation; smaller delay means faster animation
+# # Maximum number of authors to be shown for each publication (more authors are visible on click)
+# max_author_limit: 3 # leave blank to always show all authors
+# more_authors_animation_delay: 10 # more authors are revealed on click using animation; smaller delay means faster animation
 
-# Enables publication thumbnails. If disabled, none of the publications will display thumbnails, even if specified in the bib entry.
-enable_publication_thumbnails: true
+# # Enables publication thumbnails. If disabled, none of the publications will display thumbnails, even if specified in the bib entry.
+# enable_publication_thumbnails: true
 
-# -----------------------------------------------------------------------------
-# Jekyll Link Attributes
-# -----------------------------------------------------------------------------
+# # -----------------------------------------------------------------------------
+# # Jekyll Link Attributes
+# # -----------------------------------------------------------------------------
 
-# These are the defaults
-external_links:
-  enabled: true
-  rel: external nofollow noopener
-  target: _blank
-  exclude:
+# # These are the defaults
+# external_links:
+#   enabled: true
+#   rel: external nofollow noopener
+#   target: _blank
+#   exclude:
 
-# -----------------------------------------------------------------------------
-# Responsive WebP Images
-# -----------------------------------------------------------------------------
+# # -----------------------------------------------------------------------------
+# # Responsive WebP Images
+# # -----------------------------------------------------------------------------
 
-# MAKE SURE imagemagick is installed and on your PATH before enabling imagemagick. In a terminal, run:
-#   convert -version
-imagemagick:
-  enabled: true # enables responsive images for your site (recommended, see https://github.com/alshedivat/al-folio/issues/537)
-  widths:
-    - 480
-    - 800
-    - 1400
-  input_directories:
-    - assets/img/
-  input_formats:
-    - ".jpg"
-    - ".jpeg"
-    - ".png"
-    - ".tiff"
-    - ".gif"
-  output_formats:
-    webp: "-quality 85"
+# # MAKE SURE imagemagick is installed and on your PATH before enabling imagemagick. In a terminal, run:
+# #   convert -version
+# imagemagick:
+#   enabled: true # enables responsive images for your site (recommended, see https://github.com/alshedivat/al-folio/issues/537)
+#   widths:
+#     - 480
+#     - 800
+#     - 1400
+#   input_directories:
+#     - assets/img/
+#   input_formats:
+#     - ".jpg"
+#     - ".jpeg"
+#     - ".png"
+#     - ".tiff"
+#     - ".gif"
+#   output_formats:
+#     webp: "-quality 85"
 
-# Lazy loading images
-#   If you enable lazy loading, all images will add the loading="lazy" attribute.
-#   This will make your site load faster, but it may not be supported in all browsers.
-#   You can also set loading="" to other values for specific images to override the default behavior.
-#   Options: "auto", "eager", "lazy"
-#   See https://web.dev/browser-level-image-lazy-loading/ for more information.
-lazy_loading_images: true # enables lazy loading of images (recommended)
+# # Lazy loading images
+# #   If you enable lazy loading, all images will add the loading="lazy" attribute.
+# #   This will make your site load faster, but it may not be supported in all browsers.
+# #   You can also set loading="" to other values for specific images to override the default behavior.
+# #   Options: "auto", "eager", "lazy"
+# #   See https://web.dev/browser-level-image-lazy-loading/ for more information.
+# lazy_loading_images: true # enables lazy loading of images (recommended)
 
 # -----------------------------------------------------------------------------
 # Optional Features
