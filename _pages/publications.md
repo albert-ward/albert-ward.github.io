@@ -49,13 +49,5 @@ nav_order: 2
 <br><br>
 
 ## working papers
-<br><br>
-**Chapter 4: Place Identity and Political Participation**  
-*Thesis chapter*  
-[PDF](/assets/papers/chapter_four_wip.pdf)
 
----
-
-**PhD thesis summary**  
-[PDF](/assets/papers/main_thesis_summary_wip.pdf)
 
