@@ -210,9 +210,9 @@ display_categories: ["external-services"] # these categories will be displayed o
 # Jekyll Scholar
 # # -----------------------------------------------------------------------------
 
-scholar:
-  ...
-  bibliography_list: {}
+# scholar:
+#   source: _bibliography
+#   bibliography: papers.bib
   
 # scholar:
 #   source: _bibliography
