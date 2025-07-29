@@ -38,6 +38,13 @@ nav_order: 2
 
 ---
 
+**Parliament and government have a class problem**  
+*LSE British Politics and Policy*  
+(Ward, A.)  
+[PDF](/assets/papers/politicsandpolicy_2022_10_27_parliament_and_government_have_a_class_problem.pdf)
+
+---
+
 <br><br>
 <br><br>
 
