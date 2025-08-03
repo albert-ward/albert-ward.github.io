@@ -15,7 +15,7 @@ nav_order: 2
 
 <br><br>
 
-## publications∂
+## publications
 <br><br>
 **Why regional spending does not affect support for the European Union**  
 *Journal of European Public Policy, 2025*  
@@ -63,5 +63,16 @@ nav_order: 2
 <br><br>
 
 ## working papers
+
+<br><br>
+**Chapter 1**  
+*in Go As We Are: The Neighbourhood and How It Makes Political Behaviour, 2025*  
+(Ward, A.) 
+[PDF]({{ site.baseurl }}/assets/papers/go_as_we_are_chapter_1.pdf
+)
+
+---
+
+
 
 
