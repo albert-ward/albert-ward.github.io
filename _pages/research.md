@@ -52,7 +52,7 @@ nav_order: 2
 
 ---
 
-**How Labour Can Rebuild the Red Wall: Report**  
+**How Labour Can Rebuild the 'Red Wall': Report**  
 *The Labour Party*  
 (Ward, A. and Naylor, K.)  
 [PDF]({{ site.baseurl }}/assets/papers/Labour's Northern Soul — Labour for the North 2019 Election Report RELEASE.pdf)

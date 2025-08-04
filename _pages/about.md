@@ -2,7 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.politics.ox.ac.uk/person/albert-ward'>Affiliations</a>. PhD candidate in political science
+subtitle: "<strong>PhD candidate in political science"
+
+<!-- Maybe add affiliations later -->
 
 profile:
   align: right
