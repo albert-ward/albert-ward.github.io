@@ -2,9 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <strong>PhD candidate in political science</strong>
-
-<!-- Maybe add affiliations later -->
+subtitle: PhD candidate in political science
 
 profile:
   align: right
@@ -18,6 +16,8 @@ profile:
 social: true # includes social icons at the bottom of the page
 
 ---
+
+<!-- Maybe add affiliations later -->
 
 I'm a PhD candidate at the University of Oxford, specialising in public opinion and political behaviour. I also study climate policy, psychology, European politics and quantitative social science more broadly.
 
