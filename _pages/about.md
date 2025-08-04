@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "<strong>PhD candidate in political science"
+subtitle: <strong>PhD candidate in political science</strong>
 
 <!-- Maybe add affiliations later -->
 
