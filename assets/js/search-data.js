@@ -14,7 +14,7 @@ ninja.data = [{
           description: "publications and working papers in reverse chronological order",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/publications/";
+            window.location.href = "/research/";
           },
         },{id: "nav-repositories",
           title: "repositories",
@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "You can download a copy of my CV above.",
+          description: "You can download a copy of my CV [Download my CV](albert_ward.pdf).",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
