@@ -65,7 +65,7 @@ nav_order: 2
 
 <br><br>
 **Chapter 1: Introduction**  
-from *Go As We Are: The Neighbourhood and How It Makes Political Behaviour, 2025*  
+from *Go As We Are: The Neighbourhood and Its Political Effects, 2025*  
 (Ward, A.) 
 [PDF]({{ site.baseurl }}/assets/papers/go_as_we_are_chapter_1.pdf
 )
