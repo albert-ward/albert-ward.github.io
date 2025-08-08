@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-## articles
+## selected articles
 <br><br>
 **How migration is reshaping Northern Ireland’s divides**  
 *LSE British Politics and Policy, 2023*  
