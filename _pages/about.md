@@ -17,6 +17,15 @@ social: true # includes social icons at the bottom of the page
 
 ---
 
+<style>
+.about .page__content {
+  max-width: 440px;
+}
+.profile img {
+  margin-left: 30px;
+}
+</style>
+
 <!-- Maybe add affiliations later -->
 
 I'm a PhD candidate at the University of Oxford, specialising in public opinion and political behaviour. I also study climate policy, psychology, European politics and quantitative social science more broadly.

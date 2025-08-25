@@ -38,6 +38,14 @@ body.sticky-bottom-footer {
   }
 }
 
+/* custom overrides */
+.about .page__content {
+  max-width: 450px;
+}
+.profile img {
+  margin-left: 30px;
+}
+
 // TODO: redefine content layout.
 
 /******************************************************************************
@@ -51,3 +59,4 @@ body.sticky-bottom-footer {
 *****************************************************************************/
 
 // TODO: redefine projects layout.
+
