@@ -18,11 +18,18 @@ social: true # includes social icons at the bottom of the page
 ---
 
 <style>
-.about .page__content {
-  max-width: 440px;
+/* Keep paragraphs and list items to ~62 characters per line */
+.page__content p,
+.page__content li,
+.page p,
+.page li {
+  max-width: 62ch;
 }
+
+/* Nice breathing room if the profile block is floated on the right */
+.profile,
 .profile img {
-  margin-left: 30px;
+  margin-left: 24px !important;
 }
 </style>
 
