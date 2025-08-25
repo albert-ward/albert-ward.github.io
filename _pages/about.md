@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 <!-- Maybe add affiliations later -->
-div class="about-text">
+
 I'm a PhD candidate at the University of Oxford, specialising in public opinion and political behaviour. I also study climate policy, psychology, European politics and quantitative social science more broadly.
 
 I'm also interested in survey science, experimental methods, and quantitative methods generally. You can find some examples of my projects in `_pages/repositories.md` and publications in `_pages/research.md`
@@ -26,4 +26,3 @@ I'm also interested in survey science, experimental methods, and quantitative me
 In the past, I've lectured at Jesus College and Hertford College in Oxford. I've also been a visiting fellow at Harvard University and have worked for the BBC as a political analyst, as well as on a number of different research projects.
 
 You can get in touch at <a href="albert.ward@politics.ox.ac.uk">albert.ward@politics.ox.ac.uk</a>
-</div>
