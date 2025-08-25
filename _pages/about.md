@@ -17,22 +17,6 @@ social: true # includes social icons at the bottom of the page
 
 ---
 
-<style>
-/* Keep paragraphs and list items to ~62 characters per line */
-.page__content p,
-.page__content li,
-.page p,
-.page li {
-  max-width: 42ch;
-}
-
-/* Nice breathing room if the profile block is floated on the right */
-.profile,
-.profile img {
-  margin-left: 24px !important;
-}
-</style>
-
 <!-- Maybe add affiliations later -->
 
 I'm a PhD candidate at the University of Oxford, specialising in public opinion and political behaviour. I also study climate policy, psychology, European politics and quantitative social science more broadly.

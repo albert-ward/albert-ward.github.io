@@ -38,13 +38,7 @@ body.sticky-bottom-footer {
   }
 }
 
-/* custom overrides */
-.about .page__content {
-  max-width: 450px;
-}
-.profile img {
-  margin-left: 30px;
-}
+@import "custom";
 
 // TODO: redefine content layout.
 

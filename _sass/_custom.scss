@@ -1,0 +1,16 @@
+// Custom styles for al-folio
+
+// Increase the container width
+.container {
+  max-width: 1000px !important;  // Adjust this value as needed
+}
+
+// Control the content width while maintaining the profile image position
+.post-content {
+  max-width: 800px !important;  // Adjust this value as needed
+}
+
+// Keep your profile image spacing
+.profile {
+  padding-left: 25px !important;
+}
