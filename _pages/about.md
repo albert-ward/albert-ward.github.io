@@ -23,7 +23,7 @@ social: true # includes social icons at the bottom of the page
 .page__content li,
 .page p,
 .page li {
-  max-width: 62ch;
+  max-width: 42ch;
 }
 
 /* Nice breathing room if the profile block is floated on the right */
