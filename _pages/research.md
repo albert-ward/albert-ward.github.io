@@ -38,20 +38,6 @@ nav_order: 2
 
 ---
 
-**Parliament and government have a class problem**  
-*LSE British Politics and Policy*  
-(Ward, A.)  
-[PDF]({{ site.baseurl }}/assets/papers/politicsandpolicy_2022_10_27_parliament_and_government_have_a_class_problem.pdf)
-
----
-
-**How migration is reshaping Northern Ireland’s divides**  
-*LSE British Politics and Policy*  
-(Ward, A.)  
-[PDF]({{ site.baseurl }}/assets/papers/northern_ireland_catholics.pdf)
-
----
-
 **How Labour Can Rebuild the 'Red Wall': Report**  
 *The Labour Party*  
 (Ward, A. and Naylor, K.)  
