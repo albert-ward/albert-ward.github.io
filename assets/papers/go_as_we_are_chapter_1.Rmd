@@ -1,0 +1,16 @@
+---
+layout: article
+title: "Go As We Are: Chapter 1 – Introduction"
+authors:
+  - name: "Albert J. Ward"
+journal: "Go As We Are: The Neighbourhood and Its Political Effects"
+date: 2025-09-16
+abstract: >
+  We might think our local identity is secondary to our other geographic identities, like our national identity. Yet, this is not the case. Many voters consider it as important, or more so, than these higher-order identities. This thesis argues that the ‘neighbourhood’ is one of our foremost geographic identities, that it is a social identity, and that its effects are more widespread than previously understood. Many studies of place-based identity ignore lower-order identities. Those which do not are often not generalisable because they use limited samples or study only one type of identity, such as rurality. Others measure identity using non-survey-based measures, and political science generally focuses only on radical right voting. Over seven chapters, this thesis models neighbourhood identity and its effects on three key areas of political behaviour: participation, affective polarisation, and candidate choice.
+pdf_url: "/assets/papers/go_as_we_are_chapter_1.pdf"
+permalink: /research/go-as-we-are-2025/
+---
+
+{{ page.abstract }}
+
+<p><a href="{{ page.pdf_url | absolute_url }}">Download PDF</a></p>
