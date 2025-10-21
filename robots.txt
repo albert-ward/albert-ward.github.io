@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://albert-ward.github.io/sitemap.xml
+Sitemap: https://www.albertward.org/sitemap.xml
