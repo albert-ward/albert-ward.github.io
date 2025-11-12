@@ -2,16 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD candidate in political science
+subtitle: Social/behavioural science researcher
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Department of Politics and International Relations</p>
-    <p>Manor Road Building</p>
-    <p>Oxford, OX1 3UQ</p>
 
 social: true # includes social icons at the bottom of the page
 
@@ -19,10 +15,10 @@ social: true # includes social icons at the bottom of the page
 
 <!-- Maybe add affiliations later -->
 
-I'm a PhD candidate at the University of Oxford, specialising in public opinion and political behaviour. I also study quantitative behavioural science more broadly. 
+I'm a researcher and writer in quantitative social and behavioural science - I recently completed my PhD in political science at the University of Oxford. I specialise in experimental methods, causal inference, survey science and computational social science.
 
-I'm also interested in public policy, survey science, experimental methods, causal inference and quantitative methods generally. You can find some examples of my projects in `_pages/repositories.md` and publications in `_pages/research.md`
+I'm also interested in public policy, public opinion and quantitative methods generally. You can find some examples of my projects in `_pages/repositories.md` and publications in `_pages/research.md`
 
 In the past, I've lectured at Jesus College and Hertford College in Oxford. I've also been a visiting fellow at Harvard University and have worked for the BBC as a political analyst, as well as on a number of different research projects.
 
-You can get in touch at <a href="albert.ward@politics.ox.ac.uk">albert.ward@politics.ox.ac.uk</a>
+You can get in touch at <a href="albertjamesward@gmail.com">albertjamesward@gmail.com</a>
