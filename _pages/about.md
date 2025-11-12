@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Social/behavioural science researcher
+subtitle: Social and behavioural science researcher
 
 profile:
   align: right
@@ -15,9 +15,9 @@ social: true # includes social icons at the bottom of the page
 
 <!-- Maybe add affiliations later -->
 
-I'm a researcher and writer in quantitative social and behavioural science - I recently completed my PhD in political science at the University of Oxford. I specialise in experimental methods, causal inference, survey science and computational social science.
+I’m a researcher and writer in quantitative social and behavioural science. I recently finished my PhD in political science at the University of Oxford, where I specialised in experimental methods, causal inference, survey research, and computational social science.
 
-I'm also interested in public policy, public opinion and quantitative methods generally. You can find some examples of my projects in `_pages/repositories.md` and publications in `_pages/research.md`
+I'm also interested in public policy, public opinion, survey science and quantitative methods generally. You can find some examples of my projects in `_pages/repositories.md` and publications in `_pages/research.md`
 
 In the past, I've lectured at Jesus College and Hertford College in Oxford. I've also been a visiting fellow at Harvard University and have worked for the BBC as a political analyst, as well as on a number of different research projects.
 
