@@ -164,6 +164,9 @@ plugins:
   - jemoji
   - jekyll-github-metadata
 
+gems:
+- jekyll-github-metadata
+
 # Sitemap settings
 defaults:
   - scope:
