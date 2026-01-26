@@ -15,7 +15,7 @@ social: true # includes social icons at the bottom of the page
 
 <!-- Maybe add affiliations later -->
 
-I’m a researcher and writer in quantitative social and behavioural science. I'm also interested in public policy, public opinion, survey science and quantitative methods generally. 
+I’m a researcher and writer in quantitative social and behavioural science; also interested in public policy, public opinion, survey science and quantitative methods generally. I'm currently Senior Research Fellow at the think tank and pollster More in Common.
 
 I have a PhD in political science from the University of Oxford, where I specialised in experimental methods, causal inference, survey research, and computational social science.
 
