@@ -7,6 +7,4 @@ nav_order: 5
 description: 
 ---
 
-You can download a copy of my generic professional [CV/Resume here.]({{ site.baseurl }}/assets/pdf/albert_ward.pdf)
-
-See  `_pages/research.md` for publications and working papers
+You can download a copy of my professional [CV here.]({{ site.baseurl }}/assets/pdf/albert_ward.pdf). You can find my academic [CV/Resume here.]({{ site.baseurl }}/assets/pdf/albert_ward.pdf)

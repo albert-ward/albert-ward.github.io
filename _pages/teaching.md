@@ -3,21 +3,21 @@ layout: page
 permalink: /teaching/
 title: teaching
 description: 
-nav: false
+nav: true
 nav_order: 6
 ---
 
 __Lectures:__
 
-Political Sociology (UG)	
+Political Sociology (UG) (Oxford)
 
 <br><br>
 __Tutorials and classes:__
 
-Comparative Government (UG)	
+Comparative Government (UG) (Oxford)
 
-Practice of Politics Prelims (UG)	
+Practice of Politics Prelims (UG) (Oxford)
 
-Political Sociology (UG)	
+Political Sociology (UG) (Oxford)
 
-Political Analysis (Q-Step) labs (UG)
+Political Analysis (Q-Step) labs (UG) (Oxford)
