@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/media/";
           },
+        },{id: "nav-teaching",
+          title: "teaching",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching/";
+          },
         },{
         id: 'social-email',
         title: 'email',
@@ -49,7 +56,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/albert-w-385363316", "_blank");
+          window.open("https://www.linkedin.com/in/www.linkedin.com/in/albertjward", "_blank");
         },
       },{
         id: 'social-orcid',
@@ -63,7 +70,7 @@ ninja.data = [{
         title: 'Open Science Framework',
         section: 'Socials',
         handler: () => {
-          window.open("https://osf.io/xqdpr/", "_blank");
+          window.open("https://osf.io/https://osf.io/xqdpr//", "_blank");
         },
       },{
         id: 'social-scholar',
