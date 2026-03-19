@@ -47,19 +47,21 @@ nav_order: 2
 
 <br><br>
 
-## working papers
+## working papers and other projects
 
 <br><br>
-**Our Land**  
-from *Go As We Are: The Neighbourhood and Its Political Effects, 2025*  
-(Ward, A.) 
-[PDF]({{ site.baseurl }}/assets/papers/go_as_we_are_chapter_1.pdf)
+**Our Land: How Where We Live Shapes Our Politics**  
+Book project 
 
 ---
 
-**Chapter 1: Introduction**  
+**All politics is local: Experimental evidence on place-based identity and candidate choice**  
+Working paper
+
+---
+
+**Chapter 1 (thesis)**  
 from *Go As We Are: The Neighbourhood and Its Political Effects, 2025*  
-(Ward, A.) 
 [PDF]({{ site.baseurl }}/assets/papers/go_as_we_are_chapter_1.pdf)
 
 ---

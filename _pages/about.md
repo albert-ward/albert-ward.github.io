@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Social and behavioural science researcher
+subtitle: Political scientist
 
 profile:
   align: right
@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 
 I’m a political scientist and writer specialising in public opinion, public policy, and political behaviour. I'm currently Senior Research Fellow at the think tank and pollster More in Common.
 
-I have a PhD in political science from the University of Oxford, where I specialised in experimental methods, causal inference, survey science, and computational social science.
+I have a PhD from the University of Oxford, where I specialised in experimental methods, causal inference, survey science, and computational social science.
 
 You can find some examples of my projects in `_pages/repositories.md` and publications in `_pages/research.md`
 
