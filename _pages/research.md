@@ -60,8 +60,15 @@ Working paper
 
 ---
 
+**Meta Paper II: Predicting Reproducibility and Robustness**  
+Working meta paper from 2024 Berkeley Replication games
+
+---
+
 **Chapter 1 (thesis)**  
 from *Go As We Are: The Neighbourhood and Its Political Effects, 2025*  
 [PDF]({{ site.baseurl }}/assets/papers/go_as_we_are_chapter_1.pdf)
 
 ---
+
+
