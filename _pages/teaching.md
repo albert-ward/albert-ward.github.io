@@ -21,3 +21,5 @@ Practice of Politics Prelims (UG) (Oxford)
 Political Sociology (UG) (Oxford)
 
 Political Analysis (Q-Step) labs (UG) (Oxford)
+
+Introduction to Quantitative Methods (PG) (Oxford)
