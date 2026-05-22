@@ -9,17 +9,15 @@ nav_order: 6
 
 __Lectures:__
 
-Political Sociology (UG) (Oxford)
+Political Sociology (Oxford)
 
 <br><br>
 __Tutorials and classes:__
 
-Comparative Government (UG) (Oxford)
+Comparative Government (Oxford)
 
-Practice of Politics Prelims (UG) (Oxford)
+Practice of Politics Prelims (Oxford)
 
-Political Sociology (UG) (Oxford)
+Political Sociology (Oxford)
 
-Political Analysis (Q-Step) labs (UG) (Oxford)
-
-Introduction to Quantitative Methods (PG) (Oxford)
+Political Analysis (Q-Step) labs (Oxford)
