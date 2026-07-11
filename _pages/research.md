@@ -49,7 +49,7 @@ nav_order: 2
 ## working papers and other projects
 
 <br><br>
-**Our Land: How Where We Live Shapes Our Politics**  
+**Our Land**  
 Book project 
 
 ---

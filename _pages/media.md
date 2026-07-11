@@ -9,6 +9,10 @@ nav_order: 6
 
 ## selected articles
 <br><br>
+**Everyone is arguing about devolution except voters**  
+*The Spectator*  
+[Link](https://spectator.com/article/everyone-is-arguing-about-devolution-except-voters/)
+
 **How migration is reshaping Northern Ireland’s divides**  
 *LSE British Politics and Policy, 2023*  
 [Link](https://blogs.lse.ac.uk/politicsandpolicy/how-migration-is-reshaping-northern-irelands-divides/)
