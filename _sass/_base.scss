@@ -1416,4 +1416,10 @@ figure.cover {
   a.cover-link:hover {
     color: #23212d !important;
   }
+
+.profile h1,
+#name {
+  font-weight: 400; // try 400 for regular, 300 for light
+}
+
 }
