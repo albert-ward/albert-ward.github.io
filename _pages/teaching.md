@@ -7,12 +7,12 @@ nav: true
 nav_order: 6
 ---
 
-__Lectures:__
+## lectures
 
 Political Sociology (Oxford)
 
 <br><br>
-__Tutorials and classes:__
+## tutorials and classes
 
 Comparative Government (Oxford)
 

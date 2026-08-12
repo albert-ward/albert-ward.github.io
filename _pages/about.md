@@ -7,7 +7,7 @@ subtitle:
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
 
 social: true # includes social icons at the bottom of the page
 
@@ -15,12 +15,19 @@ social: true # includes social icons at the bottom of the page
 
 <!-- Maybe add affiliations later -->
 
-I'm a political scientist and writer specialising in behavioural science and public opinion.
+Political scientist and writer. Expert on public opinion, political identity, and and the politics of place and community.
 
-I did my PhD at Oxford, where I focused on political behaviour in democracies, with a focus on political identity. I've also been a visiting fellow at Harvard, and have worked as a political analyst for various organisations.
+I did my PhD at Oxford. Previously I've been a visiting fellow at Harvard, a lecturer at Jesus College and Hertford College, and a political analyst for various organisations.
 
-In the past, I've also lectured at Jesus College and Hertford College, Oxford.
+You can find examples of my publications and writing in `_pages/research.md` and my projects in `_pages/repositories.md`.
 
-You can find examples of my projects in `_pages/repositories.md` and publications in `_pages/research.md`.
+Get in touch at <a href="mailto:albertjamesward@gmail.com">albertjamesward@gmail.com</a>.
 
-You can get in touch at <a href="albertjamesward@gmail.com">albertjamesward@gmail.com</a>
+
+<div class="social-text-links" style="margin-top: 2rem;">
+  <a href="mailto:albertjamesward@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/albertjward" target="_blank" rel="noopener noreferrer">LinkedIn</a> ·
+  <a href="https://orcid.org/0000-0002-3221-5415" target="_blank" rel="noopener noreferrer">ORCID</a> ·
+  <a href="https://osf.io/xqdpr/" target="_blank" rel="noopener noreferrer">OSF</a> ·
+  <a href="https://scholar.google.com/citations?user=ISG6aFQAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a>
+</div>

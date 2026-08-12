@@ -15,7 +15,7 @@ nav_order: 2
 
 <br><br>
 
-## publications
+## selected publications
 <br><br>
 **Why regional spending does not affect support for the European Union**  
 *Journal of European Public Policy, 2025*  
@@ -49,8 +49,13 @@ nav_order: 2
 ## working papers and other projects
 
 <br><br>
-**Our Land**  
+**Our Land: Why Politics Divides Us, What Unites Us, and How to Tell the Difference**  
 Book project 
+
+---
+
+**Predicting reproducibility and robustness of economics and political science research**  
+Working meta paper from 2024 Berkeley Replication games
 
 ---
 
@@ -58,16 +63,4 @@ Book project
 Working paper
 
 ---
-
-**Meta Paper II: Predicting Reproducibility and Robustness**  
-Working meta paper from 2024 Berkeley Replication games
-
----
-
-**Chapter 1 (thesis)**  
-from *Go As We Are: The Neighbourhood and Its Political Effects, 2025*  
-[PDF]({{ site.baseurl }}/assets/papers/go_as_we_are_chapter_1.pdf)
-
----
-
 

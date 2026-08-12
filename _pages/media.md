@@ -31,7 +31,7 @@ nav_order: 6
 
 ## selected media appearances
 <br><br>
-BBC News
+BBC News, 2024 general election, 2024 and 2025 local elections
 
 ITV News UTV Podcast [Link](https://www.itv.com/news/utv/2023-11-10/utv-podcast-the-impact-of-immigration-on-northern-irelands-religious-makeup)
 
