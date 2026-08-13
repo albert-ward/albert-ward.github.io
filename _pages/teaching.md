@@ -8,12 +8,12 @@ nav_order: 6
 ---
 
 ## lectures
-
+<br><br>
 Political Sociology (Oxford)
 
 <br><br>
 ## tutorials and classes
-
+<br><br>
 Comparative Government (Oxford)
 
 Practice of Politics Prelims (Oxford)

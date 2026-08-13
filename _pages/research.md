@@ -17,30 +17,24 @@ nav_order: 2
 
 ## selected publications
 <br><br>
-**Why regional spending does not affect support for the European Union**  
+**[Why regional spending does not affect support for the European Union]({{ site.baseurl }}/assets/papers/eu_spending_jepp_2025.pdf)**  
 *Journal of European Public Policy, 2025*  
-(Ward, A., Hobolt, S. B., and Tilley, J.) 
-[PDF]({{ site.baseurl }}/assets/papers/eu_spending_jepp_2025.pdf)
-
+w/ Sara Hobolt and James Tilley
+---
+**[Peoples' Climate Vote 2024]({{ site.baseurl }}/assets/papers/undp-oxford-peoples-climate-vote.pdf)**  
+*United Nations Development Programme, 2024*  
+w/ Steve Fisher and others
 ---
 
-**Peoples’ Climate Vote 2024**  
-*United Nations, 2024*  
-(Fisher, S., Blayney, M., Ward, A., Flynn, C., Tovar Jard, S., Smith, H., Struthoff, P. and Fillingham, Z.)  
-[PDF]({{ site.baseurl }}/assets/papers/undp-oxford-peoples-climate-vote.pdf)
-
----
-
-**Reproduction and Robustness of Kao et al. (2024): "Female Representation and Legitimacy". A Report from the 2024 UC Berkeley Replication Games**  
+**[Reproduction and Robustness of Kao et al. (2024): "Female Representation and Legitimacy". A Report from the 2024 UC Berkeley Replication Games]({{ site.baseurl }}/assets/papers/I4R-DP146.pdf)**  
 *I4R Discussion Paper Series, 2024*  
-(Brailey, T.; Kelly, E.; Odermatt, A.; Ward, A.)  
-[PDF]({{ site.baseurl }}/assets/papers/I4R-DP146.pdf)
+w/ Tom Brailey and others
 
 ---
 
 **How Labour Can Rebuild the 'Red Wall': Report**  
 *The Labour Party*  
-(Ward, A. and Naylor, K.)  
+w/ Kate Naylor
 
 ---
 
