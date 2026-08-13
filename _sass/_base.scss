@@ -1417,13 +1417,7 @@ figure.cover {
     color: #23212d !important;
   }
 
-// About page name — reduce weight
-.page-title,
-.post-title,
-#name,
-.profile-name,
-.clearfix h1,
-.post-header h1 {
+.post-header .post-title {
   font-weight: 400 !important;
 }
 
