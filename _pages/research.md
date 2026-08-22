@@ -29,12 +29,6 @@ w/ Steve Fisher and others
 
 ---
 
-**[Reproduction and Robustness of Kao et al. (2024): "Female Representation and Legitimacy". A Report from the 2024 UC Berkeley Replication Games]({{ site.baseurl }}/assets/papers/I4R-DP146.pdf)**  
-*I4R Discussion Paper Series, 2024*  
-w/ Tom Brailey and others
-
----
-
 **How Labour Can Rebuild the 'Red Wall': Report**  
 *The Labour Party*  
 w/ Kate Naylor
@@ -50,13 +44,16 @@ Book project
 
 ---
 
-**Predicting reproducibility and robustness of economics and political science research**  
-Working meta paper from 2024 Berkeley Replication games
+**The Reproducibility and Robustness of Economics and Political Science by Method and Field**  
+Working meta-replication paper, w/ Abel Brodeur and others
 
 ---
 
-**All politics is local: Experimental evidence on place-based identity and candidate choice**  
+**Place-Based Identity and the Demand for Local Candidates**  
 Working paper
 
 ---
+
+**Geographic sorting polarizes voters attached to their neighborhood**  
+Working paper
 
