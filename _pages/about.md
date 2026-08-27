@@ -15,7 +15,7 @@ social: true # includes social icons at the bottom of the page
 
 <!-- Maybe add affiliations later -->
 
-Political scientist and writer. Expert on public opinion, political identity, and and the politics of place and community.
+Political scientist and writer. Expert on public opinion, political identity, and the politics of place and community.
 
 I did my PhD at Oxford - previously I've been a visiting fellow at Harvard, a lecturer at Jesus College and Hertford College, and a political analyst for various organisations.
 
