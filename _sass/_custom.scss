@@ -14,3 +14,9 @@
 .profile {
   padding-left: 25px !important;
 }
+
+// Lighter weight for the name in the page header and navbar (Bootstrap's bold is 700)
+.post-header .post-title .font-weight-bold,
+.navbar-brand .font-weight-bold {
+  font-weight: 500 !important;
+}
