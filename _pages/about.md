@@ -15,7 +15,7 @@ social: true # includes social icons at the bottom of the page
 
 <!-- Maybe add affiliations later -->
 
-Hi, I’m Albert. I’m a political scientist and writer: I study public opinion, political identity and psychology, and how where we live shapes our politics.
+Hi, I’m Albert. I’m a political scientist and writer: I study public opinion, political psychology, and geography.
 
 I’m currently a Postdoctoral Research Fellow in Politics at the University of Cambridge, based in the Department of Land Economy and the Bennett School of Public Policy, where I work on an ERC-funded project on the politics of place.
 
