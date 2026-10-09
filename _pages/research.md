@@ -39,12 +39,13 @@ w/ Kate Naylor
 
 ## working papers and other projects
 <br>
-**Our Land: Why Politics Divides Us, What Unites Us, and How to Tell the Difference**  
+
+**Our Land: Why Place Defines Us**  
 Book project 
 
 ---
 
-**The Reproducibility and Robustness of Economics and Political Science by Method and Field**  
+**Predicting reproducibility and robustness of economics and political science research**  
 Working meta-replication paper, w/ Abel Brodeur and others
 
 ---
@@ -54,6 +55,7 @@ Working paper
 
 ---
 
-**Geographic sorting polarizes voters attached to their neighborhood**  
-Working paper
+**Mass Reproducibility in Psychological Science**  
+Working meta-replication paper, w/ Abel Brodeur and others
+
 
