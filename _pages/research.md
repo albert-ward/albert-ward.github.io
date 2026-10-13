@@ -30,7 +30,7 @@ w/ Steve Fisher and others
 ---
 
 **How Labour Can Rebuild the 'Red Wall': Report**  
-*The Labour Party*  
+*The Labour Party, 2020*  
 w/ Kate Naylor
 
 ---

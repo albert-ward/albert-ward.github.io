@@ -7,17 +7,16 @@ nav: true
 nav_order: 6
 ---
 
-## lectures
+I’ve taught politics, government and research methods for a few years, both to graduates and undergraduates. Here’s a full list of courses:
+
 <br>
-Political Sociology (Oxford)
+## Oxford
+*Jesus College and Hertford College*
 
-<br><br>
-## tutorials and classes
-<br>
-Comparative Government (Oxford)
+Political Sociology (lectures and tutorials)
 
-Practice of Politics Prelims (Oxford)
+Comparative Government
 
-Political Sociology (Oxford)
+Practice of Politics
 
-Political Analysis (Q-Step) labs (Oxford)
+Political Analysis (Q-Step labs)
