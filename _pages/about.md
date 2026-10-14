@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 
 I’m a political scientist and writer. I study how people think about politics and why they vote the way they do.
 
-Much of my work is about how the neighbourhoods and places we live in shape who we are and our politics. My current projects look at the political divide between cities and the countryside, local identity, and why voters want local candidates. I’m now writing a book about it, *Our Land: Why Place Defines Us*. I’m also interested in polarisation, public opinion on climate change, and replication science (testing whether research findings hold up when other people repeat them). I mostly work with large surveys, experiments and panel data.
+Much of my work is about how the neighbourhoods and places we live in shape who we are and our politics. My current projects look at the political divide between cities and the countryside, place-based identity, and what voters want from political candidates. I’m now writing a book about it, *Our Land: Why Place Defines Us*. I’m also interested in polarisation, public opinion on climate change, and replication science (testing whether research findings hold up when other people repeat them). I mostly work with large surveys, experiments and panel data.
 
 I’m a Postdoctoral Research Fellow in Politics at the University of Cambridge, based in the Department of Land Economy and the Bennett School of Public Policy, where I work on an ERC-funded project on the politics of place. Before that I did my PhD at Oxford and taught politics at Jesus College and Hertford College. I’ve also been a visiting fellow at Harvard, an elections analyst on the BBC exit poll, and a Senior Fellow at the polling company More in Common.
 
