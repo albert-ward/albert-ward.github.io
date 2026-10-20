@@ -8,8 +8,8 @@ nav_order: 6
 ---
 ## selected articles
 <br>
-**[Everyone deserves to live near their mother]()**  
-*New York Times (Guest Essay) - forthcoming*
+<!--**[Everyone deserves to live near their mother]()**  -->
+<!--*New York Times (Guest Essay) - forthcoming*-->
 
 **[Everyone is arguing about devolution except voters](https://spectator.com/article/everyone-is-arguing-about-devolution-except-voters/)**  
 *The Spectator, 2026*
