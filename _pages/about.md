@@ -15,13 +15,13 @@ social: true # includes social icons at the bottom of the page
 
 <!-- Maybe add affiliations later -->
 
-I’m a political scientist and writer. I study public opinion, identity and political geography. In particular, I’m interested in big questions about where we live, such as why people feel at home in some places and not others, and how our neighbourhoods shape what we believe and how we vote.
+I’m a political scientist and writer. I study public opinion, identity and political geography. I’m especially interested in big questions about where we live, such as why people feel at home in some places and not others, and how our neighbourhoods shape how we vote.
 <!--  how the neighbourhoods and places we live in shape who we are and our politics-->
 <!-- Much of my work asks why where you live matters, for who you are, how you see other people and how you vote.-->
 
-My current academic projects look at the political divide between cities and the countryside, place-based identity, and what voters want from political candidates. I’m also writing a book: *Our Land: Why Place Defines Us*. I also work on polarisation, public opinion on climate change, and replication science (testing whether research findings hold up when other people repeat them). I mostly work with large surveys, experiments and panel data.
+My current projects look at the political divide between cities and the countryside, place-based identity, and what voters want from candidates. I’m also writing a book: *Our Land: Why Place Defines Us*. I also work on polarisation, public opinion on climate change, and replication science (testing whether findings hold up when repeated).
 
-I’m curently a Postdoctoral Research Fellow in Politics at the University of Cambridge, based in the Department of Land Economy and the Bennett School of Public Policy. Before that I did my PhD at Oxford and taught politics at Jesus College and Hertford College. I’ve also been a visiting fellow at Harvard, an elections analyst on the BBC exit poll, and a Senior Fellow at the polling company More in Common.
+I’m curently a Postdoctoral Research Fellow in Politics at the University of Cambridge. Before that I did my PhD at Oxford and taught at Jesus College and Hertford College. I’ve also been a visiting fellow at Harvard, an elections analyst on the BBC exit poll, and a Senior Fellow at the polling company More in Common.
 
 You can find examples of my work in [`_pages/research.md`]({{ '/research/' | relative_url }}) and [`_pages/repositories.md`]({{ '/repositories/' | relative_url }}).
 
