@@ -1,5 +1,5 @@
 {% assign repo_url = include.repository | split: '/' %}
-{% assign repo_description = site.data.repositories.repo_descriptions[include.repository] %}
+{% assign repo_description = include.description %}
 
 <div class="repo p-2 w-100" style="align-self: stretch;">
   <a href="https://github.com/{{ include.repository }}" class="card h-100 hoverable" style="background-color: var(--global-card-bg-color); border: 1px solid var(--global-divider-color);">
