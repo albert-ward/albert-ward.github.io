@@ -91,6 +91,7 @@ jobs:
       - name: Install and Build 🔧
         env:
           JEKYLL_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PAGES_REPO_NWO: ${{ github.repository }}
         run: |
           pip3 install --upgrade nbconvert
           export JEKYLL_ENV=production
