@@ -1,11 +1,17 @@
 {% assign repo_url = include.repository | split: '/' %}
+{% assign repo_description = site.data.repositories.repo_descriptions[include.repository] %}
 
-<div class="repo p-2 text-center">
-  <a href="https://github.com/{{ include.repository }}">
-    <img
-      class="w-100"
-      alt="{{ include.repository }}"
-      src="https://opengraph.githubassets.com/1/{{ repo_url[0] }}/{{ repo_url[1] }}"
-    >
+<div class="repo p-2 w-100" style="align-self: stretch;">
+  <a href="https://github.com/{{ include.repository }}" class="card h-100 hoverable" style="background-color: var(--global-card-bg-color); border: 1px solid var(--global-divider-color);">
+    <div class="card-body">
+      <h3 class="card-title" style="font-size: 1.1rem; color: var(--global-theme-color);">
+        <i class="fa-brands fa-github"></i> {{ repo_url[1] }}
+      </h3>
+      {% if repo_description %}
+        <p class="card-text mb-0" style="color: var(--global-text-color); display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: {{ site.data.repositories.repo_description_lines_max }}; overflow: hidden;">
+          {{ repo_description }}
+        </p>
+      {% endif %}
+    </div>
   </a>
 </div>

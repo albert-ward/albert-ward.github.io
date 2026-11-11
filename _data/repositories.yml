@@ -5,11 +5,20 @@ repo_description_lines_max: 2
 
 github_repos:
   - albert-ward/conjoint-code-25
-  - albert-ward/replication_eu_spending
+  - albert-ward/replication-eu-spending
   - albert-ward/qstep1-course
-  - albert-ward/uk_vote_small_counts
+  - albert-ward/uk-vote-small-counts
   - albert-ward/basic-python
   - albert-ward/pcv-national-descriptives
-  - albert-ward/ukhls_class
-  - albert-ward/pcv-national-descriptives
-  - albert-ward/nevs_ge
+  - albert-ward/ukhls-class
+  - albert-ward/nevs-ge
+
+repo_descriptions:
+  albert-ward/conjoint-code-25: "Code for mixed vignette and conjoint survey experiment"
+  albert-ward/replication-eu-spending: "Replication materials for 'Why regional spending does not affect support for the European Union' (Ward, Tilley and Hobolt)"
+  albert-ward/qstep1-course: "Teaching materials for QStep 1 - Political Analysis (Oxford)"
+  albert-ward/uk-vote-small-counts: "Ward and neighbourhood-level estimates for vote share in UK local elections, 2010-2021"
+  albert-ward/basic-python: "Python for Harvard data science course"
+  albert-ward/pcv-national-descriptives: "Country-level visualisation and descriptives for the Peoples' Climate Vote 2024"
+  albert-ward/ukhls-class: "Code to create respondent occupational class for the UK Household Longitudinal Study panel"
+  albert-ward/nevs-ge: "Basic visualisations - national equivalent vote share (NEVS) against general election results"

@@ -40,7 +40,7 @@ w/ Kate Naylor
 ## working papers and other projects
 <br>
 
-**Our Land: Why Place Defines Us**  
+**Our Land: Why We Love Where We Live, and Why We Fight Over It**  
 Book project 
 
 ---
@@ -58,4 +58,7 @@ Working paper
 **Mass Reproducibility in Psychological Science**  
 Working meta-replication paper, w/ Abel Brodeur and others
 
+---
 
+**Length of residence and belonging to place: Quick formation and the selection of stayers**  
+Working paper
