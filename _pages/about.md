@@ -25,10 +25,10 @@ I’m curently a Postdoctoral Research Fellow in Politics at the University of C
 
 You can find examples of my work in [`_pages/research.md`]({{ '/research/' | relative_url }}) and [`_pages/repositories.md`]({{ '/repositories/' | relative_url }}).
 
-For press, talks or research collaborations, email me at <a href="mailto:albertjamesward@gmail.com">albertjamesward@gmail.com</a>. I read everything, and I’ll get back to you as soon as I can. 
+For press, talks or research collaborations, email me at <a href="mailto:ajw339@cam.ac.uk">ajw339@cam.ac.uk</a>. I read everything, and I’ll get back to you as soon as I can. 
 
 <div class="social-text-links" style="margin-top: 2rem;">
-  <a href="mailto:albertjamesward@gmail.com">Email</a> ·
+  <a href="mailto:ajw339@cam.ac.uk">Email</a> ·
   <a href="https://www.linkedin.com/in/albertjward" target="_blank" rel="noopener noreferrer">LinkedIn</a> ·
   <a href="https://orcid.org/0000-0002-3221-5415" target="_blank" rel="noopener noreferrer">ORCID</a> ·
   <a href="https://osf.io/xqdpr/" target="_blank" rel="noopener noreferrer">OSF</a> ·
