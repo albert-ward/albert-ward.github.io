@@ -19,7 +19,7 @@ I’m a political scientist and writer. I study public opinion, identity and pol
 <!--  how the neighbourhoods and places we live in shape who we are and our politics-->
 <!-- Much of my work asks why where you live matters, for who you are, how you see other people and how you vote.-->
 
-My current projects look at the political divide between cities and the countryside, voting rights, and what voters want from political candidates. I also work on polarisation, public opinion on climate change, and replication science (testing whether findings hold up when repeated).
+My current projects look at the political divide between cities and the countryside, voting rights, and what voters want from political candidates. I also work on polarisation, public opinion on climate change, and survey science (designing questions and samples as accurately as possible).
 
 <!--ADD AFTER FIRST SENTENCE: I’m writing a book too: *Our Land: Why We Love Where We Live, and Why We Fight Over It* (out 2029).  -->
 
