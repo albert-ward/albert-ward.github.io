@@ -32,6 +32,7 @@ For press, talks or research collaborations, email me at <a href="mailto:ajw339@
 <div class="social-text-links" style="margin-top: 2rem;">
   <a href="mailto:ajw339@cam.ac.uk">Email</a> ·
   <a href="https://www.linkedin.com/in/albertjward" target="_blank" rel="noopener noreferrer">LinkedIn</a> ·
+  <a href="https://x.com/albertjward_" target="_blank" rel="noopener noreferrer">Twitter (X)</a> ·
   <a href="https://orcid.org/0000-0002-3221-5415" target="_blank" rel="noopener noreferrer">ORCID</a> ·
   <a href="https://osf.io/xqdpr/" target="_blank" rel="noopener noreferrer">OSF</a> ·
   <a href="https://scholar.google.com/citations?user=ISG6aFQAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a>
