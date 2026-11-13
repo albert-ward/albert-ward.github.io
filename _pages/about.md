@@ -15,7 +15,7 @@ social: true # includes social icons at the bottom of the page
 
 <!-- Maybe add affiliations later -->
 
-I’m a political scientist and writer. I study public opinion, identity and political geography. I’m especially interested in big questions about where we live, such as why people feel at home in some places and not others, and how our neighbourhoods shape how we vote.
+I’m a political scientist and writer. I study public opinion, identity and political geography—I’m especially interested in big questions about where we live, such as why people feel at home in some places and not others, and how our neighbourhoods shape how we vote.
 <!--  how the neighbourhoods and places we live in shape who we are and our politics-->
 <!-- Much of my work asks why where you live matters, for who you are, how you see other people and how you vote.-->
 
