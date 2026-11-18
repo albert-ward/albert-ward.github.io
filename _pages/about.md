@@ -23,7 +23,7 @@ My current projects look at the political divide between cities and the countrys
 
 <!--ADD AFTER FIRST SENTENCE: I’m writing a book too: *Our Land: Why We Love Where We Live, and Why We Fight Over It* (out 2029).  -->
 
-I’m curently a Postdoctoral Research Fellow in Politics at the University of Cambridge. Before that I did my PhD at Oxford and taught at Jesus College and Hertford College. I’ve also been a visiting fellow at Harvard, an elections analyst for the BBC, and a Senior Fellow at the polling company More in Common.
+I’m curently a Postdoctoral Fellow in Politics at the University of Cambridge. Before that I did my PhD at Oxford and taught at Jesus College and Hertford College. I’ve also been a visiting fellow at Harvard, an elections analyst for the BBC, and a Senior Fellow at the polling company More in Common.
 
 You can find examples of my work in [`_pages/research.md`]({{ '/research/' | relative_url }}) and [`_pages/repositories.md`]({{ '/repositories/' | relative_url }}).
 
@@ -33,7 +33,6 @@ For press, talks or research collaborations, please email me at <a href="mailto:
   <a href="mailto:ajw339@cam.ac.uk">Email</a> ·
   <a href="https://www.linkedin.com/in/albertjward" target="_blank" rel="noopener noreferrer">LinkedIn</a> ·
   <a href="https://x.com/albertjward_" target="_blank" rel="noopener noreferrer">Twitter (X)</a> ·
-  <a href="https://orcid.org/0000-0002-3221-5415" target="_blank" rel="noopener noreferrer">ORCID</a> ·
   <a href="https://osf.io/xqdpr/" target="_blank" rel="noopener noreferrer">OSF</a> ·
   <a href="https://scholar.google.com/citations?user=ISG6aFQAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a>
 </div>
